@@ -1,2 +1,2 @@
 # generator_clase
-Generator de clase simpluu folosit pentru colocviile ( din trecut ) la POO in timp ce invatam pentru el
+Problemele de la colocviu aveau datele membre si citirea relativ usor de scris si nu voiam sa trec peste ele ca sa am rezolvari asa ca am folosit acest generator.
